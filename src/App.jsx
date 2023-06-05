@@ -23,7 +23,9 @@ import { useState } from 'react';
 import './App.css';
 import { useEffect } from 'react';
 
-const API ="http://localhost:4000"
+//const API ="http://localhost:4000"
+
+const API ="https://node-project-vpr3.onrender.com"
 
 function App() {
   // const mobiles = [{
